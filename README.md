@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan! <br/><a href="https://github.com/cyberjourney20">Github</a>, <a href="https://www.linkedin.com/in/dan-farrell-55307597/">LinkedIn</a>, <a href="https://cyberjourney.blog/">CyberJourney.blog</a></h1>
+<h1>Hi, I'm Dan! <br/><a href="https://github.com/cyberjourney20">Github</a>, <a href="https://www.linkedin.com/in/danfarrell01/">LinkedIn</a>, <a href="https://cyberjourney.blog/">CyberJourney.blog</a></h1>
 
 <h2>👨‍💻 Programing Projects:</h2>
 
