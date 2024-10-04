@@ -17,7 +17,8 @@
   - [Exploring Punycode: emoji's in URLs](https://cyberjourney.blog/2022/02/22/man-emoji_url/)
   - [Home Lab Mk1](https://cyberjourney.blog/2022/02/20/touch-home_lab/)
   - [Hello World](https://cyberjourney.blog/2022/02/20/test-sticky/)
-
+- <b>Master of Science Thesis</b>
+  - [Effectiveness of the Synchronization of Cyber and Kinetic Warfare](https://www.proquest.com/openview/825586744ca6699bf966226f834bba7a/1?pq-origsite=gscholar&cbl=18750&diss=y/) 
 
 <!--
 **cyberjourney20/cyberjourney20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
