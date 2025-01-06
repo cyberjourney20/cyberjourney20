@@ -5,6 +5,8 @@
 - <b>Python</b>
   - [Text menu based Enigma Machine | Pynigma v0.1](https://github.com/cyberjourney20/PyNigma)
   - [File Integrity Checker](https://github.com/cyberjourney20/File_Integrity_Checker)
+ 
+<h2>📙 Written Projects:</h2>
 - <b>Cybersecurity & Home Lab Blog Posts</b>
   - [Setting Up Splunk Enterprise in a Home Lab: Part 1](https://cyberjourney.blog/2024/10/19/setting-up-splunk-enterprise-9-3-1-in-a-home-lab/) [Part 2](https://cyberjourney.blog/2024/10/27/setting-up-log-forwarding-to-splunk-enterprise/) [Part 3](https://cyberjourney.blog/2024/11/23/exploring-basic-splunk-search-commands-a-hands-on-guide/) 
   - [Gandalf AI Prompt Injection](https://cyberjourney.blog/2024/04/11/gandalf-ai-prompt-injection-game-from-lakera/)
