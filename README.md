@@ -5,7 +5,8 @@
 - <b>Python</b>
   - [Text menu based Enigma Machine | Pynigma v0.1](https://github.com/cyberjourney20/PyNigma)
   - [File Integrity Checker](https://github.com/cyberjourney20/File_Integrity_Checker)
- 
+- <b>Go</b>
+  - [Bookings Web App developed in Udemy Go course](https://github.com/cyberjourney20/bookings)
 <h2>📙 Written Projects:</h2>
 
 - <b>Cybersecurity & Home Lab Blog Posts</b>
