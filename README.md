@@ -7,6 +7,7 @@
   - [File Integrity Checker](https://github.com/cyberjourney20/File_Integrity_Checker)
 - <b>Go</b>
   - [Bookings Web App developed in Udemy Go course](https://github.com/cyberjourney20/bookings)
+  - [Career Journey Web App organize job search data](https://github.com/cyberjourney20/career-journey)
 <h2>📙 Written Projects:</h2>
 
 - <b>Cybersecurity & Home Lab Blog Posts</b>
